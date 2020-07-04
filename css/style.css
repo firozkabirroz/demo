@@ -1,0 +1,26 @@
+header{
+    display: flex;
+    width: 90%;
+    margin: 0 auto;
+    
+    
+}
+.logo{
+    width: 20%;
+
+}
+.logo img{
+    width: 100%;
+}
+.head-text{
+    width: 75%;
+    border-top: 30px solid #24a1db;
+    border-bottom: 35px solid  #24a1db;
+    margin: 0 10px;
+    
+}
+.head-text h1{
+    display: inline;
+    font-weight: bold;
+    font-size: 82px;
+}
